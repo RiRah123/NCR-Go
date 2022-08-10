@@ -29,4 +29,4 @@ NCR can utilize our project to provide an end-to-end experience for our customer
 Concepts: Computer Vision, Machine Learning: Microsoft Azure Computer Vision Tool Kit, Convolutional Neural Networks, Transfer Learning, Image Classification <br/> Web/Mobile Application: React Native <br/> Database: MongoDB
 
 ## Demo Video
-Link: https://youtu.be/eCDzSWLUD4g
+[![NCR Global Hackathon - Team Chinterns](https://img.youtube.com/vi/eCDzSWLUD4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=eCDzSWLUD4g "NCR Global Hackathon - Team Chinterns")
