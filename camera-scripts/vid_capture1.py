@@ -19,43 +19,6 @@ aisleNumber = 1
 
 storeId = "store0"
 
-# apiKey = 'wUjrBtp1G8XtVxhYcgu25ol7J5i7y7ytOFnLuqIHUaAygK37DMI3VRLHQ8u0O9pz'
-# headers = {
-#     'Content-Type': 'application/json',
-#     'Access-Control-Request-Headers': '*',
-#     'api-key': apiKey
-# }
-# response = requests.post("https://data.mongodb-api.com/app/data-vehyh/endpoint/data/v1/action/insertOne", headers=headers, data=json.dumps({
-#     "dataSource": "Cluster0",
-#     "database": "store-info",
-#     "collection": "products",
-#     "document": {
-#         "storeId": "store0",
-#         "products": {
-#             "beans": {
-#                 "inStock": False,
-#                 "aisle": None
-#             },
-#             "cereal": {
-#                 "inStock": False,
-#                 "aisle": None
-#             },
-#             "chips": {
-#                 "inStock": False,
-#                 "aisle": None
-#             },
-#             "milk": {
-#                 "inStock": False,
-#                 "aisle": None
-#             },
-#             "water": {
-#                 "inStock": False,
-#                 "aisle": None
-#             }
-#         }
-#     }
-# }))
-
 current_product = None
 
 i = 0
