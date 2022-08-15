@@ -83,7 +83,6 @@ export default function ShoppingListScreen({ navigation }) {
     }
 
     React.useEffect(() => {
-        //getItems();
         alerted = false
         let interval = setInterval(getItems, 1000);
 
