@@ -86,8 +86,7 @@ export default function BrowseItemsScreen({ navigation }) {
     }
                                                                 
        
-    React.useEffect(() => {         
-        //getItems();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        jiop   c                                                                                              
+    React.useEffect(() => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                              jiop   c                                                                                              
         let interval = setInterval(getItems, 5000);                                                                                                            
         return () => {                                                                       
             clearInterval(interval)                  
