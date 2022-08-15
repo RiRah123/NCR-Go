@@ -72,11 +72,9 @@ export default function BrowseItemsScreen({ navigation }) {
             data = response.data.document
             temp.forEach(element => {
                 if (!data.products[element.name.toLowerCase()].inStock) {
-                    // console.log(`${element.name} is not in stock`);
                     element.stock = false
                     element.aisle = null
                 } else {
-                    // console.log(`${element.name} is in aisle ${data.products[element.name.toLowerCase()].aisle}`)
                     element.stock = true
                     element.aisle = data.products[element.name.toLowerCase()].aisle
                 }
