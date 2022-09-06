@@ -2,7 +2,8 @@
 [![JavaScipt](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
-[![Face_recognition](https://shields.io/badge/face_recognition-darkblue?style=for-the-badge&)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=OpenCV&logoColor=white)]()
+[![Machine_Learning](https://shields.io/badge/face_recognition-darkblue?style=for-the-badge&)]()
 
 ## Project Summary
 Our project is a mobile application solution for shopping providing customers with information on product availability and in-store location. 
