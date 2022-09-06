@@ -4,6 +4,7 @@
 [![React_Native](https://img.shields.io/badge/React_Native-11EAEC?style=for-the-badge&logo=react&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=MongoDB&logoColor=white)]()
+[![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-3776AB?style=for-the-badge&logo=azure&logoColor=white)]()
 [![Machine_Learning](https://shields.io/badge/machine_learning-darkblue?style=for-the-badge&logo=AI)]()
 
 ## Project Summary
