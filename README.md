@@ -4,7 +4,7 @@
 [![React_Native](https://img.shields.io/badge/React_Native-11EAEC?style=for-the-badge&logo=react&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=OpenCV&logoColor=white)]()
-[![Machine_Learning](https://shields.io/badge/machine_learning-darkblue?style=for-the-badge&)]()
+[![Machine_Learning](https://shields.io/badge/machine_learning-darkblue?style=for-the-badge&logo=MachineLearning)]()
 
 ## Project Summary
 Our project is a mobile application solution for shopping providing customers with information on product availability and in-store location. 
