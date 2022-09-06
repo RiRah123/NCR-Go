@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![React_Native](https://img.shields.io/badge/React_Native-11EAEC?style=for-the-badge&logo=react&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=OpenCV&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=MongoDB&logoColor=white)]()
 [![Machine_Learning](https://shields.io/badge/machine_learning-darkblue?style=for-the-badge&logo=AI)]()
 
 ## Project Summary
