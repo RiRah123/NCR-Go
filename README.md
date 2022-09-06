@@ -1,4 +1,8 @@
 # NCR Go
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
+[![Face_recognition](https://shields.io/badge/face_recognition-darkblue?style=for-the-badge&)]()
 
 ## Project Summary
 Our project is a mobile application solution for shopping providing customers with information on product availability and in-store location. 
@@ -24,9 +28,6 @@ Our team has designed an app to notify users when products on their shopping lis
 
 ## Value: How does your project provide value to NCR and its customers?
 NCR can utilize our project to provide an end-to-end experience for our customers’ shoppers. Instead of each store having to design their own inventory technology for customers, NCR can provide a single solution to make the shopping experience easier. This opens a new generalized system for NCR to market to new and existing customers. Furthermore, our project has opportunities for expansion. First, we can include geolocation features to let users see stores closest to them, and when a product in their chosen store goes out of stock, we can recommend closest stores that have that product or the entire shopping list in stock. Secondly, since inventory, shopping lists, and user information are stored in a MongoDB cluster, NCR can have easy access to shopping data. This allows for lots of training data for a recommendation system, so users can be recommended similar products when an item goes out of stock. More shopping data allows for better analytics as well. Lastly, this project allows NCR to establish itself as the lead provider for stores in shopping technologies. NCR customers can improve their business by using our project to advertise easier shopping experiences, and shoppers will go through our technology anytime they need to go to the store. Finally, our project promotes many of the enumerated NCR values. First, customers can benefit from our product by improving the experience of their shoppers and reducing costs of their inventory technolgy. Secondly, users have more fun when shopping by making the experience more efficient. Thirdly, our project innovates inventory technology by improving upon transactional data approaches through computer vision technologies. Finally, users feel more respected in their time as they know ahead of time if they can actually buy the products they need. Hence, our project provides value NCR and its customers by providing better experiences to users, opening up new areas of business, allowing for expansion opportunities, and promoting NCR’s values. 
-
-## Technologies Used
-Concepts: Computer Vision, Machine Learning, Microsoft Azure Computer Vision Tool Kit, Convolutional Neural Networks, Transfer Learning, Image Classification <br/> Web/Mobile Application: React Native <br/> Database: MongoDB
 
 ## Demo Video
 [![NCR Global Hackathon - Team Chinterns](https://img.youtube.com/vi/eCDzSWLUD4g/maxresdefault.jpg)](https://www.youtube.com/watch?v=eCDzSWLUD4g "NCR Global Hackathon - Team Chinterns")
