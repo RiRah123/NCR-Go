@@ -1,7 +1,7 @@
 # NCR Go
 [![JavaScipt](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=OpenCV&logoColor=white)]()
 [![Machine_Learning](https://shields.io/badge/machine_learning-darkblue?style=for-the-badge&)]()
